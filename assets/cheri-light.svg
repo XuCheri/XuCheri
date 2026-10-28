@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I'm Cheri — Front-end, Web3 and macOS</title>
+  <desc id="desc">A personal developer banner with a pair of illustrated cherries.</desc>
+  <defs><clipPath id="bounds"><rect width="1200" height="360" rx="24"/></clipPath></defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="360" fill="#fff8fb"/>
+    <circle cx="1015" cy="185" r="229" fill="#f8e5ed"/>
+    <circle cx="1015" cy="185" r="194" fill="none" stroke="#edd6e0" stroke-width="1.5"/>
+    <circle cx="1015" cy="185" r="152" fill="none" stroke="#edd6e0" stroke-width="1.5" stroke-dasharray="3 9"/>
+    <g fill="#49313e">
+      <text x="64" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="26">hello, I’m</text>
+      <text x="57" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="168" letter-spacing="-7">Cheri.</text>
+    </g>
+    <path d="M66 254H122" stroke="#ce4267" stroke-width="4" stroke-linecap="round"/>
+    <text x="64" y="300" fill="#806675" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="25">Front-end / Web3 / macOS</text>
+    <g transform="translate(825 28)">
+      <path d="M104 185C105 135 153 92 170 44C202 91 227 143 223 209" fill="none" stroke="#517c63" stroke-width="8" stroke-linecap="round"/>
+      <path d="M170 48C172 12 217 6 241 17C227 52 196 62 170 48Z" fill="#7ca58a"/>
+      <path d="M174 45L225 25" fill="none" stroke="#517c63" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M105 168C69 148 33 180 40 218C47 261 83 281 111 266C143 277 173 246 168 209C164 180 135 153 105 168Z" fill="#ce4267"/>
+      <path d="M223 193C189 173 154 199 158 237C163 279 198 299 228 285C259 295 289 268 284 230C281 202 251 178 223 193Z" fill="#e75b7b"/>
+      <path d="M66 202C68 186 80 179 90 180" fill="none" stroke="#ff9db2" stroke-width="10" stroke-linecap="round"/>
+      <path d="M185 224C188 210 199 204 209 205" fill="none" stroke="#ff9db2" stroke-width="9" stroke-linecap="round"/>
+      <path d="M106 168L111 177M223 193L225 202" stroke="#517c63" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <path d="M763 92V114M752 103H774" stroke="#e7cbd8" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="1165" cy="305" r="5" fill="#e7cbd8"/>
+    <circle cx="784" cy="285" r="3" fill="#e7cbd8"/>
+  </g>
+</svg>
